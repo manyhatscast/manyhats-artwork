@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 50.8 50.8"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="manyhats-cover.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4537"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="104.40905"
+     inkscape:cy="99.145606"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     width="192px"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5234"
+       empspacing="7"
+       spacingx="1.6933333"
+       spacingy="1.6933333"
+       originx="1.6933333"
+       originy="1.6933333" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid5242"
+       originx="7.6729167"
+       originy="7.6729167"
+       spacingx="1.6933333"
+       spacingy="1.6933333"
+       empspacing="7"
+       color="#ff0000"
+       opacity="0.1254902"
+       empcolor="#ff0000"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.2)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.22166348px;line-height:204.78623962px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';text-align:center;letter-spacing:2.48708344px;word-spacing:1.2221663px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.409067"
+       y="257.99997"
+       id="text4487"><tspan
+         sodipodi:role="line"
+         id="tspan4485"
+         x="26.652609"
+         y="257.99997"
+         style="letter-spacing:2.48708344px;word-spacing:0px;stroke-width:0.26458332px">MANY</tspan></text>
+    <text
+       id="text4491"
+       y="281.62347"
+       x="25.409067"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.22166348px;line-height:204.78623962px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';text-align:center;letter-spacing:4.44235417px;word-spacing:1.2221663px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="letter-spacing:4.44235417px;word-spacing:0px;stroke-width:0.26458332px;"
+         y="281.62347"
+         x="26.652609"
+         id="tspan4489"
+         sodipodi:role="line">HATS</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.5929168,268.1075 c 3.3866666,1.69333 6.7733332,1.69333 10.1600002,0 -1.693334,0 -2.8601865,-0.29262 -2.8601865,-1.1922 0,-0.89959 2.0044375,-4.78859 1.9606025,-5.58113 -0.0488,-0.88229 -2.487083,-0.79375 -4.1804163,-0.79375 -1.6933333,0 -4.2862501,0 -4.2862501,0.79375 0,1.12253 1.7935594,4.8542 1.7935594,5.64795 0,0.79375 -0.8939759,1.12538 -2.5873092,1.12538 z"
+       id="path4535"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssssc" />
+  </g>
+</svg>
